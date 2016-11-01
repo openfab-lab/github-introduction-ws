@@ -1,3 +1,8 @@
+# Introduction à Github
+
+à compléter par
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+
 GIT = framework pour développeur
 
 Utilisation du versionning et de ce framework pour l'adapter à l'utilisation des makers. Le versionning, c'est garder l'historique des évolutions d'un document.
