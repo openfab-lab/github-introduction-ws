@@ -64,3 +64,7 @@ Question/remarque:
 * les règles à suivre? -> passeport
 * lien avec https://aisler.net/
 ça vient d'un fablab allemand, il met en page les images et permet une recherche de projet DIY sur Github
+
+Quelques liens:
+* [Tuto GitHub (exercice)](https://try.github.io/levels/1/challenges/1)
+* [Tuto Lewagon (video)](https://www.youtube.com/watch?v=V6Zo68uQPqE)
