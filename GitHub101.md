@@ -10,6 +10,7 @@ Avec les infos de What, why, who, where?
 
 Les outils d'édition de texte compatible GIT, Latex?
 https://fr.wikibooks.org/wiki/LaTeX
+https://framakey.org/Pack/PackLatex
 les fichiers doc sont fermés et donc non gérable pour le versionning.
 Les fichiers qui vont bien et que github va bien gérer:
 en 3D, le stl avec un visionneur intégré.
