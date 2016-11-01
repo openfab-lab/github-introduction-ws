@@ -20,6 +20,27 @@ Merge:
 une branche que l'on valide et veut ajouter (merge) au tronc master doit être validé par un pair, jamais par le codeur lui même. 
 Pour s'assurer qu'il y a une double lecture, un oeil frais sur ce qui est proposé.
 
+Exemples d'utilisation hors software:
+- les lois, très proche de la logique de proposition de loi, validation, et application. 
+- l'édition d'un bouquin collaboratif,
+
+
+Issues?
+Lorsqu'on rencontre un bug, soit on le corrige soi-même si on sait, soit on crée une "issue" qui peut servir de feedback ou de signalisation du bug. L'équipe est alors prévenue et quelqu'un peut être assignée à la résolution du bug.
+Peut être utilisé pour assigner des taches à des contributeurs/membres.
+
+Les "issues" peuvent être intégrée dans un tableau type Trello/kanban dans l'onglet "projet"
+
+Structure de base? Comment on adapte la structure Github à la gestion de projet openfab?
+- Organisation = Openfab, 
+- branches = 
+- projets = 
+- milestone = 
+- issues = Tâches
+
+Next step? 
+
+Utilisation de l'onglet Wiki pour détailler les protocoles ou le getting started. 
 
 
 Question/remarque:
