@@ -6,6 +6,11 @@ Avec les infos de What, why, who, where?
 Les outils d'édition de texte compatible GIT, Latex?
 https://fr.wikibooks.org/wiki/LaTeX
 les fichiers doc sont fermés et donc non gérable pour le versionning.
+Les fichiers qui vont bien et que github va bien gérer:
+en 3D, le stl avec un visionneur intégré.
+en 2D, les fichiers images jpg, png, ... 
+en texte, fichier .txt, .md, .tex, 
+Par défaut, on peut imaginer que les types de fichiers propriétaires ne seront pas traité en détail puisque git ne pourra pas les lire pour comparaison, mais on peut quand même les ajouter sur le repository. On compare juste la date et la taille.
 
 à chaque version, un point est créé sur une branche. 
 Une branche est un sujet développé, qui n'impacte pas le tronc (Master)
@@ -31,6 +36,7 @@ Peut être utilisé pour assigner des taches à des contributeurs/membres.
 
 Les "issues" peuvent être intégrée dans un tableau type Trello/kanban dans l'onglet "projet"
 
+
 Structure de base? Comment on adapte la structure Github à la gestion de projet openfab?
 - Organisation = Openfab, 
 - branches = 
@@ -39,13 +45,13 @@ Structure de base? Comment on adapte la structure Github à la gestion de projet
 - issues = Tâches
 
 Next step? 
+* Installation de GIT chez les utilisateurs, ça permet d'avoir un environnement graphique par dessus GIT, et l'utilisation Offline d'un dossier de travail. Par exemple: Github desktop. 
 
 Utilisation de l'onglet Wiki pour détailler les protocoles ou le getting started. 
 
 
 Question/remarque:
 * Définir un "protocole" pour nous? un spécial maker parce que sur le net, c'est tjs très orienté développeur.
-* Installation de GIT chez les utilisateurs, ça permet d'avoir un environnement graphique par dessus GIT, et l'utilisation Offline d'un dossier de travail.
 * pourquoi utiliser GIT et pourquoi faire l'effort d'apprendre le protocole. = Rigueur, nomenclature et convention. C'est comme le code de la route pour pouvoir conduire sur la voie publique et que ça se passe bien.
 * comment décider et nommer une branche? =channel slack?
 * les codes les plus commun? -> passeport
