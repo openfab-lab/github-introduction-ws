@@ -21,3 +21,9 @@ function square(args) {
 ```
 notes:
 > it's a note!
+
+# Team members
+
+Our team:
+1. Charley Roelofs
+2. Dorian Somers
