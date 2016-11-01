@@ -44,13 +44,14 @@ Les "issues" peuvent être intégrée dans un tableau type Trello/kanban dans l'
 
 Structure de base? Comment on adapte la structure Github à la gestion de projet openfab?
 - Organisation = Openfab, 
-- branches = 
+- branches = à part la Master, les branches sont des zones tampon de travail que l'on clôt avec merge to master
 - projets = 
-- milestone = 
+- milestone = objectif à atteindre
 - issues = Tâches
 
 Next step? 
 * Installation de GIT chez les utilisateurs, ça permet d'avoir un environnement graphique par dessus GIT, et l'utilisation Offline d'un dossier de travail. Par exemple: Github desktop. 
+* organisation des dossiers via concept Flat/nested
 
 Utilisation de l'onglet Wiki pour détailler les protocoles ou le getting started. 
 
