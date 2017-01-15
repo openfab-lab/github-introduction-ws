@@ -42,21 +42,18 @@ Voici un rappel rapide des plus courrant (via un exemple de block code):
 ```
 ####les styles
 ```
-**bold** 
-*italic* 
-++Underline++
+**bold**   
+*italic*   
+++Underline++   
 ~~Strikethrough~~
-==Highlight==
-^superScript^
-~subScript~
+
+
 ```
-**bold** 
-*italic* 
-++Underline++
-~~Strikethrough~~
-==Highlight==
-texte ^superScript^
-texte ~subScript~
+**bold**   
+*italic*   
+++Underline++   
+~~Strikethrough~~    
+
 
 
 ####Les liens vers html ou image:
