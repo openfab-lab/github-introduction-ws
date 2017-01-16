@@ -4,7 +4,7 @@
 Pour débuter, c'est facile de commencer avecune version desktop de github. C'est un interface graphique qui aide quand on n'est pas encore à l'aise avec les logiques et les commandes textes.
 Git, à la base, c'est des commandes textes de hackers... 
 
-![mrRobot](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/1%20GhqLwBX-Y9p7Q2I-WuriQw.png)
+![mrRobot](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/mrRobot.png)
 
 ###setup
 
