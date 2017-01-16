@@ -16,12 +16,14 @@ Git, à la base, c'est des commandes textes de hackers...
 
 ![step1](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/Git01.jpg)
 
-**6**. Donne un nom et où tu veux qu'il soit créé. Ici, j'ai créé un dossier github sur mon disque local.   
-Le dépôt y est créé, c'est en fait un simple dossier.
+**6**. Donne un nom et où tu veux qu'il soit créé. Ici, j'utilise un dossier github sur mon disque local.   
+Le dépôt y est créé, comme tu vois, c'est en fait un simple dossier.
 
 ![step2](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/Git02.jpg)
 
-**7**. De là on peut aussi: ajouter "add" un dépôt existant ou récupérer "Cloner" un dépôt lié à ton compte en ligne. Les contenus en ligne sont téléchargés localement.
+**7**. De là on peut aussi: 
+- ajouter "add" un dépôt existant ou 
+- récupérer "Cloner" un dépôt lié à ton compte en ligne. Les contenus en ligne sont téléchargés et éditables localement.
 
 **L'important est de comprendre qu'un dépôt ou "repository" est un lieu de stockage centralisé et partagé avec la communauté.
 On a une copie locale (clone) où l'on peut modifier ce qu'on veut. Lorsqu'on a finit de travailler, on signale les changements et on upload le nouveau contenu**    
@@ -46,12 +48,14 @@ Voilà, c'est corrigé.
 
 ![step4](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/Git04.jpg)
 
-Le **comit** nous y voilà.   
-En bas, à gauche, le bouton "Commit to master" est grisé parce qu'il attend qu'on remplise au minimum la case "Summary" où l'on décrit brièvement le changement qu'on apporte. La description est là si le changement ne peut se décrire brièvement et c'est important dans des projets complexes.
-**10** Click to Commit
-**11** Reste à cliquer en haut à droite sur "Publish" lorsque le fichier est neuf ou "Synch" pour envoyer les changements en ligne.
+Le comit nous y voilà.   
+En bas, à gauche, le bouton **"Commit to master"** est grisé parce qu'il attend qu'on remplise au minimum la case "Summary" où l'on décrit brièvement le changement qu'on apporte. La description est là si le changement ne peut se décrire brièvement et c'est important dans des projets complexes.   
+**10** Click to Commit   
+**11** Reste à cliquer en haut à droite sur "Publish" lorsque le fichier est neuf ou "Synch" pour envoyer les changements en ligne.   
 
 **12** Et voilà, y a plus qu'à pratiquer quelques fois d'envoyer, créer, modifier, mettre à jour, de l'ordi et direct en ligne.  
+
+Pour les autres fonctions comme créer une nouvelle "branch", fusionner "merge", les "pull request", les "issues" et la communication entre contributeur, on verra plus tard.   
 
 ![step4](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/welldone.jpg)
 
