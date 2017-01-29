@@ -1,7 +1,13 @@
 #Github 101 - création
+
+D'un point de vue logique de fonctionnement, cette vidéo est pas mal du tout.  
+https://youtu.be/_ALeswWzpBo  
+
+Et pour débuter, c'est plus facile de commencer avec une version desktop de github.  
+C'est un interface graphique qui aide quand on n'est pas encore à l'aise avec les logiques et les commandes textes.
+
 ##Installation GUI Windows
 
-Pour débuter, c'est facile de commencer avecune version desktop de github. C'est un interface graphique qui aide quand on n'est pas encore à l'aise avec les logiques et les commandes textes.
 Git, à la base, c'est des commandes textes de hackers... 
 
 ![mrRobot](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/mrRobot.png)
@@ -55,7 +61,8 @@ En bas, à gauche, le bouton **"Commit to master"** est grisé parce qu'il atten
 
 **12** Et voilà, y a plus qu'à pratiquer quelques fois d'envoyer, créer, modifier, mettre à jour, de l'ordi et direct en ligne.  
 
-Pour les autres fonctions comme créer une nouvelle "branch", fusionner "merge", les "pull request", les "issues" et la communication entre contributeur, on verra plus tard.  
+Une autre façon de faire, Version macOSX (mais c'est pareil) en vidéo (EN): https://youtu.be/BKr8lbx3uFY  
+Pour les autres fonctions comme créer une nouvelle "branche", fusionner "merge", les "pull request", les "issues" et la communication entre contributeurs, on verra plus tard ( j'y connais encore rien :p ).  
 
 
 ![step4](https://github.com/openfab-lab/github-introduction-ws/blob/master/img/welldone.jpg)
