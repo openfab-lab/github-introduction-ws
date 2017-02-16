@@ -1,5 +1,14 @@
 #Ceci est une introduction à Github
 `#Ceci est une introduction à Github`
+
+Je vais ajouter ici plusieurs liens référence:
+
+- https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/
+- https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git
+- https://blog.wildcodeschool.fr/pourquoi-utiliser-github-partie-i/
+- [14 millions d'inscris en 2016](https://fr.wikipedia.org/wiki/GitHub)
+- http://tempsreel.nouvelobs.com/rue89/rue89-explicateur/20150331.RUE8486/qu-est-ce-que-tous-les-techos-du-monde-font-sur-github.html
+
 ##dont la synthaxe de mise en forme passe par le langage Markdown
 `##dont la synthaxe de mise en forme passe par le langage Markdown`
 
