@@ -1,5 +1,5 @@
 # Ceci est une introduction à Github
-`#Ceci est une introduction à Github`
+`# Ceci est une introduction à Github`
 
 Je vais ajouter ici plusieurs liens référence:
 
@@ -10,7 +10,7 @@ Je vais ajouter ici plusieurs liens référence:
 - http://tempsreel.nouvelobs.com/rue89/rue89-explicateur/20150331.RUE8486/qu-est-ce-que-tous-les-techos-du-monde-font-sur-github.html
 
 ## dont la synthaxe de mise en forme passe par le langage Markdown
-`##dont la synthaxe de mise en forme passe par le langage Markdown`
+`## dont la synthaxe de mise en forme passe par le langage Markdown`
 
 Les tutoriels pour bien comprendre comment ça marche et le pourquoi, à quoi ça sert.
 - [un guide pour bien commencer avec markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
